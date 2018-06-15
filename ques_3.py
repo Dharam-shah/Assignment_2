@@ -1,0 +1,7 @@
+a = input('Enter 1st number: ')
+b = input('Enter 2nd number: ')
+c = input('Enter 2nd number: ')
+a1 = int(a)
+b1 = int(b)
+c1 = int(c)
+print(a1,b1,c1)
